@@ -17,7 +17,7 @@
 <ul >
   <li>A Computer Science Engineering Student from Dehradun with rapid learning abilities, adept implementation skills.</li>
   <li>I have participated in numerous hackathons and have led my team to victory.</li>
-  <li>I have great knowledge about Full-stack web development.</li>
+  <li>I have great knowledge about Full-stack web development and Android Development.</li>
   <li>I have great problem-solving skills, and I have a good conceptual understanding of DSA.</li>
 </ul>
 </div>
