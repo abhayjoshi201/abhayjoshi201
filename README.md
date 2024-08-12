@@ -60,9 +60,3 @@
 <br/>
 
 <h2 align="center">Thank you for Going through my profile</h2>
-
-<br/>
-
-<p align="center">
-<img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
-</p>
