@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
 <h1 align="center">I am Abhay Joshi</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-joshi-/">
