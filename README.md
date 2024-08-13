@@ -3,6 +3,9 @@
 </p>
 <h1 align="center">I am Abhay Joshi</h1>
 <p align="center">
+<!-- <img src="https://capsule-render.vercel.app/api?text=%20&animation=fadeIn&type=waving&color=gradient&height=100"/> -->
+</p>
+<p align="center">
 <a href="https://twitter.com/abhayjoshi1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayjoshi1104" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhayjoshi201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayjoshi201" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhayjoshi1104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhayjoshi1104" height="30" width="40" /></a>
