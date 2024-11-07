@@ -50,6 +50,20 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 <br/>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/achievements?format=svg&limit=3" width="350" />
+</p>
+<!-- <p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p> -->
+<!-- [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/mohitrawat061/badges/community)](https://community.vaunt.dev/board/mohitrawat061) -->
+<!-- </p>    
+<a href="https://vaunt.dev/">
+        <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/contributions?format=svg" width="350" />
+    </a>
+</p> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayjoshi201&show_icons=true&locale=en&layout=compact" alt="abhayjoshi201" />
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhayjoshi201&show_icons=true&locale=en" alt="abhayjoshi201" /></p> --> 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjoshi201&" alt="abhayjoshi201" /></p> -->
