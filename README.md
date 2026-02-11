@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00e5a0,100:7b61ff&height=180&section=header&text=Abhay%20Joshi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20%26%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descColor=9ca3af"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00e5a0,100:7b61ff&height=180&section=header&text=Abhay%20Joshi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer&descSize=16&descAlignY=55&descColor=9ca3af"/>
 </p>
 
 <h3 align="center">
@@ -21,7 +21,7 @@
 
 ```yaml
 name: Abhay Joshi
-role: Founding / Backend & Infrastructure Engineer
+role: Software Engineer
 focus:
   - Distributed Systems & Scalable Backend Architecture
   - Cloud-Native Infrastructure (AWS, Kubernetes, Terraform)
