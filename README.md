@@ -1,70 +1,115 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00e5a0,100:7b61ff&height=180&section=header&text=Abhay%20Joshi&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20%26%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descColor=9ca3af"/>
 </p>
-<h1 align="center">I am Abhay Joshi</h1>
+
+<h3 align="center">
+  <code>Building and operating production-grade distributed systems.</code>
+</h3>
+
 <p align="center">
-<!-- <img src="https://capsule-render.vercel.app/api?text=%20&animation=fadeIn&type=waving&color=gradient&height=100"/> -->
+  <a href="https://www.linkedin.com/in/abhay-joshi-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/abhayjoshi1104"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://medium.com/@abhayjoshi201"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://leetcode.com/u/abbhayyy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/abhayjoshi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="mailto:abhayjoshisensie@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+
+### `$ cat about.yml`
+
+```yaml
+name: Abhay Joshi
+role: Founding / Backend & Infrastructure Engineer
+focus:
+  - Distributed Systems & Scalable Backend Architecture
+  - Cloud-Native Infrastructure (AWS, Kubernetes, Terraform)
+  - ML/LLM Deployment Pipelines
+  - Production Reliability & Performance Optimization
+education: B.Tech CSE — Graphic Era Hill University (2021–2025)
+status: building at scale
+```
+
+---
+
+### ⚙️ Tech Stack
+
+**Backend & Systems**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Data & ML**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+### 🏢 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Engineer** | CloudKeeper | Jan 2025 – Present |
+| **Open Source Contributor** | AfterQuery *(YC-backed)* | May 2024 – Jan 2025 |
+
+**Highlights:**
+- GPU-based ML inference on **AWS EKS** (KAI/HAMi) — managed node groups, scaling, resource limits
+- Built disaster recovery automation in **Go + Redis + EFS** — reduced RTO from **2hrs → 15min**
+- Designed & deployed **RAG pipelines** using AWS Bedrock + Zendesk
+- Provisioned infra with **Terraform**, CI/CD with GitLab/Jenkins/ArgoCD
+- Active open-source contributor to **FreeCAD** (C++ core)
+
+---
+
+### 🏆 Achievements
+
+<table>
+  <tr>
+    <td align="center">🏆<br/><b>ICPC 2024 Regionalist</b><br/><sub>AIR 333 (Qualifiers) · AIR 96 (Regionals)</sub></td>
+    <td align="center">⚔️<br/><b>LeetCode Knight</b><br/><sub>Top 1% · Max Rating 2068</sub></td>
+    <td align="center">🎓<br/><b>Amazon ML Summer School</b><br/><sub>Cleared 2023 & 2024</sub></td>
+    <td align="center">🔧<br/><b>FreeCAD Contributor</b><br/><sub>C++ core components</sub></td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Production Philosophy
+
+```
+→ Reliability over hype
+→ Measure everything
+→ Automate recovery
+→ Design for failure
+→ Ship fast, stabilize faster
+```
+
+---
+
 <p align="center">
-<a href="https://twitter.com/abhayjoshi1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhayjoshi1104" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhayjoshi201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayjoshi201" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhayjoshi1104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhayjoshi1104" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhayjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhayjoshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhayjoshi1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhayjoshi1104" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhay-joshi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-joshi-" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayjoshi201&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=00e5a0&icon_color=00e5a0&text_color=9ca3af" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjoshi201&theme=dark&hide_border=true&background=0a0a0f&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=9ca3af&dates=6b7280" height="165" />
 </p>
 
-<h1 align="center">About Me</h1>
-<br/>
-<div align="center">
-<ul >
-  <li>A Computer Science Engineering Student from Dehradun with rapid learning abilities, adept implementation skills.</li>
-  <li>I have great problem-solving skills, and I have a good conceptual understanding of DSA.</li>
-  <li>I have great knowledge about Full-stack web development and Android Development.</li>
-  <li>I have participated in numerous hackathons and have led my team to victory.</li>
-</ul>
-</div>
-
-<br/>
-
-<h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  -->
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00e5a0,100:7b61ff&height=100&section=footer"/>
 </p>
-<br/>
-<p align="center" >
-  <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/achievements?format=svg&limit=3" width="350" />
-</p>
-<!-- <p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p> -->
-<!-- [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/mohitrawat061/badges/community)](https://community.vaunt.dev/board/mohitrawat061) -->
-<!-- </p>    
-<a href="https://vaunt.dev/">
-        <img src="https://api.vaunt.dev/v1/github/entities/mohitrawat061/contributions?format=svg" width="350" />
-    </a>
-</p> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayjoshi201&show_icons=true&locale=en&layout=compact" alt="abhayjoshi201" />
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhayjoshi201&show_icons=true&locale=en" alt="abhayjoshi201" /></p> --> 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayjoshi201&" alt="abhayjoshi201" /></p> -->
-<h2 align="center">Thank you for Going through my profile</h2>
