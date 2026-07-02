@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-joshi-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://gitlab.com/abhayjoshisensie"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://x.com/abhayjoshi1104"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
   <a href="https://medium.com/@abhayjoshi201"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://leetcode.com/u/abbhayyy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -21,14 +22,14 @@
 
 ```yaml
 name: Abhay Joshi
-role: Software Engineer
+role: Software Engineer @ Google
 focus:
-  - Distributed Systems & Scalable Backend Architecture
-  - Cloud-Native Infrastructure (AWS, Kubernetes, Terraform)
-  - ML/LLM Deployment Pipelines
-  - Production Reliability & Performance Optimization
+  - Distributed Systems & Real-Time Event Brokers
+  - Cloud-Native Infrastructure (AWS, GCP, Kubernetes, Terraform)
+  - ML/LLM Deployment Pipelines & GPU Inference
+  - Production Reliability & High-Throughput Architecture
 education: B.Tech CSE — Graphic Era Hill University (2021–2025)
-status: building at scale
+status: building at scale @ Google
 ```
 
 ---
@@ -41,6 +42,8 @@ status: building at scale
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -68,15 +71,29 @@ status: building at scale
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Software Engineer** | CloudKeeper | Jan 2025 – Present |
-| **Open Source Contributor** | AfterQuery *(YC-backed)* | May 2024 – Jan 2025 |
+| **Software Engineer** | **Google** | May 2026 – Present |
+| **Software Engineer** | **CloudKeeper** | Jan 2025 – May 2026 |
+| **Open Source Contributor** | **AfterQuery** *(YC-backed)* | May 2024 – Jan 2025 |
 
 **Highlights:**
-- GPU-based ML inference on **AWS EKS** (KAI/HAMi) — managed node groups, scaling, resource limits
-- Built disaster recovery automation in **Go + Redis + EFS** — reduced RTO from **2hrs → 15min**
-- Designed & deployed **RAG pipelines** using AWS Bedrock + Zendesk
-- Provisioned infra with **Terraform**, CI/CD with GitLab/Jenkins/ArgoCD
-- Active open-source contributor to **FreeCAD** (C++ core)
+- Building and scaling real-time distributed telemetry systems and high-throughput production services at **Google**.
+- GPU-based ML inference on **AWS EKS** (KAI/HAMi) — managed node groups, scaling, resource limits.
+- Built disaster recovery automation in **Go + Redis + EFS** — reduced RTO from **2hrs → 15min**.
+- Designed & deployed **RAG pipelines** using AWS Bedrock + Zendesk.
+- Provisioned infra with **Terraform**, CI/CD pipelines with GitLab/Jenkins/ArgoCD.
+- Active open-source contributor to **FreeCAD** (C++ core components).
+
+---
+
+### 🛠️ Featured Systems & Projects
+
+| Project | Tech Stack | Architecture & Highlights |
+| :--- | :--- | :--- |
+| **[🚌 LiveBus](https://gitlab.com/abhayjoshisensie/livebus)** | `Java 21` `Spring Boot 3.4` `Kotlin` `Jetpack Compose` `WebSockets` `STOMP` | End-to-end real-time transit GPS tracking and fleet telemetry monitoring system. Engineered a 3-tier decoupled architecture featuring a Spring Boot **STOMP/WebSocket Broker** (pub/sub broadcasting without polling), a Coroutine-based **Ghost Driver Simulator**, and a **7-screen Android Client** with zero-latency live coordinate streaming and dynamic ETA calculations. |
+| **🤖 Wordle AI Bot & Engine** | `Java 17` `Network Sockets` `Information Theory` | Custom distributed Wordle game server and automated AI solver client. Developed an information-theory entropy guessing engine (`SmartGuesser`) and multi-client socket communication protocol. |
+| **♠️ Distributed Blackjack Server** | `Java` `Multithreading` `TCP Sockets` | Multithreaded client-server Blackjack engine handling real-time multi-client game loops, bot AI players, state serialization (`game_data.ser`), and custom Linux UNIX man page documentation. |
+| **🐍 C++ TUI Snake Engine** | `C++` `POSIX TUI` `Game Physics` | Terminal User Interface (TUI) game engine featuring dynamic terminal sizing/centering, non-blocking input handling, real-time state updates, and border collision physics. |
+| **☁️ GCP Cloud Cookbook** | `Python` `Node.js` `GCP SDK` | Cloud-native infrastructure automation, testing pipelines, and service integration experiments across Google Cloud Platform. |
 
 ---
 
