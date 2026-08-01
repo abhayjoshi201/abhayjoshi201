@@ -22,7 +22,7 @@
 
 ```yaml
 name: Abhay Joshi
-role: Software Engineer @ Google
+role: Software Developer @ Google
 focus:
   - Distributed Systems & Real-Time Event Brokers
   - Cloud-Native Infrastructure (AWS, GCP, Kubernetes, Terraform)
